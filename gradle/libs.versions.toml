@@ -12,7 +12,7 @@ constraintlayout = "2.2.1"
 gson = "2.13.2"
 okhttp3 = "5.2.1"
 work = "2.10.5"
-credence = "1.0.7"
+credence = "1.0.8"
 
 [libraries]
 androidx-core-ktx = { group = "androidx.core", name = "core-ktx", version.ref = "coreKtx" }
